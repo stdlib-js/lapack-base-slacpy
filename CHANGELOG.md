@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`cd9b87d`](https://github.com/stdlib-js/stdlib/commit/cd9b87d4d39f80c98731c2612e3b7d5017e3f367) - **docs:** update examples _(by Athan Reines)_
+-   [`d7896b5`](https://github.com/stdlib-js/stdlib/commit/d7896b570f2252c464c3ac25222e4d7602401e20) - **docs:** update examples _(by Athan Reines)_
 -   [`9dc7363`](https://github.com/stdlib-js/stdlib/commit/9dc736335ae16107240ffb47284ff93e7e15e826) - **docs:** improve example clarity _(by Athan Reines)_
 -   [`dc62ca4`](https://github.com/stdlib-js/stdlib/commit/dc62ca45415b32347eb7354a12c01a9b5bb5c436) - **docs:** update examples _(by Athan Reines)_
 -   [`685d5e1`](https://github.com/stdlib-js/stdlib/commit/685d5e1c76b6685eb27fa43e96755f3aa08856a7) - **test:** update test values to resolve ambiguity in expected values _(by Athan Reines)_
