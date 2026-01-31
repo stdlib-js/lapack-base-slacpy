@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import slacpy from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-slacpy@deno/mod.js';
+import slacpy from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-slacpy@v0.1.0-deno/mod.js';
 ```
 
 #### slacpy( order, uplo, M, N, A, LDA, B, LDB )
@@ -154,7 +154,7 @@ import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-to
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 import numel from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-numel@deno/mod.js';
 import shape2strides from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-shape2strides@deno/mod.js';
-import slacpy from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-slacpy@deno/mod.js';
+import slacpy from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-slacpy@v0.1.0-deno/mod.js';
 
 var shape = [ 5, 8 ];
 var order = 'row-major';
